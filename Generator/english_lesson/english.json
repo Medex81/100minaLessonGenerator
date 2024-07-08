@@ -1,0 +1,250 @@
+{
+	"keyboard_version": 1,
+	"keys":
+	{
+		"0":
+		{
+			")": "Shift",
+			"0": "Simple"
+		},
+		"1":
+		{
+			"!": "Shift",
+			"1": "Simple"
+		},
+		"2":
+		{
+			"2": "Simple",
+			"@": "Shift"
+		},
+		"3":
+		{
+			"#": "Shift",
+			"3": "Simple"
+		},
+		"4":
+		{
+			"$": "Shift",
+			"4": "Simple"
+		},
+		"5":
+		{
+			"%": "Shift",
+			"5": "Simple"
+		},
+		"6":
+		{
+			"6": "Simple",
+			"^": "Shift"
+		},
+		"7":
+		{
+			"&": "Shift",
+			"7": "Simple"
+		},
+		"8":
+		{
+			"*": "Shift",
+			"8": "Simple"
+		},
+		"9":
+		{
+			"(": "Shift",
+			"9": "Simple"
+		},
+		"a":
+		{
+			"A": "Shift",
+			"a": "Simple"
+		},
+		"apostrophe":
+		{
+			"\"": "Shift",
+			"'": "Simple"
+		},
+		"b":
+		{
+			"B": "Shift",
+			"b": "Simple"
+		},
+		"backslash":
+		{
+			"\\": "Simple",
+			"|": "Shift"
+		},
+		"bracketleft":
+		{
+			"[": "Simple",
+			"{": "Shift"
+		},
+		"bracketright":
+		{
+			"]": "Simple",
+			"}": "Shift"
+		},
+		"c":
+		{
+			"C": "Shift",
+			"c": "Simple"
+		},
+		"comma":
+		{
+			",": "Simple",
+			"<": "Shift"
+		},
+		"d":
+		{
+			"D": "Shift",
+			"d": "Simple"
+		},
+		"e":
+		{
+			"E": "Shift",
+			"e": "Simple"
+		},
+		"equal":
+		{
+			"+": "Shift",
+			"=": "Simple"
+		},
+		"f":
+		{
+			"F": "Shift",
+			"f": "Simple"
+		},
+		"g":
+		{
+			"G": "Shift",
+			"g": "Simple"
+		},
+		"h":
+		{
+			"H": "Shift",
+			"h": "Simple"
+		},
+		"i":
+		{
+			"I": "Shift",
+			"i": "Simple"
+		},
+		"j":
+		{
+			"J": "Shift",
+			"j": "Simple"
+		},
+		"k":
+		{
+			"K": "Shift",
+			"k": "Simple"
+		},
+		"l":
+		{
+			"L": "Shift",
+			"l": "Simple"
+		},
+		"less":
+		{
+			"<": "Simple",
+			">": "Shift"
+		},
+		"m":
+		{
+			"M": "Shift",
+			"m": "Simple"
+		},
+		"minus":
+		{
+			"-": "Simple",
+			"_": "Shift"
+		},
+		"n":
+		{
+			"N": "Shift",
+			"n": "Simple"
+		},
+		"o":
+		{
+			"O": "Shift",
+			"o": "Simple"
+		},
+		"p":
+		{
+			"P": "Shift",
+			"p": "Simple"
+		},
+		"period":
+		{
+			".": "Simple",
+			">": "Shift"
+		},
+		"q":
+		{
+			"Q": "Shift",
+			"q": "Simple"
+		},
+		"quoteleft":
+		{
+			"`": "Simple",
+			"~": "Shift"
+		},
+		"r":
+		{
+			"R": "Shift",
+			"r": "Simple"
+		},
+		"s":
+		{
+			"S": "Shift",
+			"s": "Simple"
+		},
+		"semicolon":
+		{
+			":": "Shift",
+			";": "Simple"
+		},
+		"slash":
+		{
+			"/": "Simple",
+			"?": "Shift"
+		},
+		"space":
+		{
+			" ": "Simple"
+		},
+		"t":
+		{
+			"T": "Shift",
+			"t": "Simple"
+		},
+		"u":
+		{
+			"U": "Shift",
+			"u": "Simple"
+		},
+		"v":
+		{
+			"V": "Shift",
+			"v": "Simple"
+		},
+		"w":
+		{
+			"W": "Shift",
+			"w": "Simple"
+		},
+		"x":
+		{
+			"X": "Shift",
+			"x": "Simple"
+		},
+		"y":
+		{
+			"Y": "Shift",
+			"y": "Simple"
+		},
+		"z":
+		{
+			"Z": "Shift",
+			"z": "Simple"
+		}
+	}
+}

@@ -1,0 +1,249 @@
+{
+	"keyboard_version":1,
+"keys":{
+    "0":
+    {
+        ")": "Shift",
+        "0": "Simple"
+    },
+    "1":
+    {
+        "!": "Shift",
+        "1": "Simple"
+    },
+    "2":
+    {
+        "\"": "Shift",
+        "2": "Simple"
+    },
+    "3":
+    {
+        "3": "Simple",
+        "№": "Shift"
+    },
+    "4":
+    {
+        "4": "Simple",
+        ";": "Shift"
+    },
+    "5":
+    {
+        "%": "Shift",
+        "5": "Simple"
+    },
+    "6":
+    {
+        "6": "Simple",
+        ":": "Shift"
+    },
+    "7":
+    {
+        "7": "Simple",
+        "?": "Shift"
+    },
+    "8":
+    {
+        "*": "Shift",
+        "8": "Simple"
+    },
+    "9":
+    {
+        "(": "Shift",
+        "9": "Simple"
+    },
+    "a":
+    {
+        "Ф": "Shift",
+        "ф": "Simple"
+    },
+    "apostrophe":
+    {
+        "Э": "Shift",
+        "э": "Simple"
+    },
+    "b":
+    {
+        "И": "Shift",
+        "и": "Simple"
+    },
+    "backslash":
+    {
+        "/": "Shift",
+        "\\": "Simple"
+    },
+    "bracketleft":
+    {
+        "Х": "Shift",
+        "х": "Simple"
+    },
+    "bracketright":
+    {
+        "Ъ": "Shift",
+        "ъ": "Simple"
+    },
+    "c":
+    {
+        "С": "Shift",
+        "с": "Simple"
+    },
+    "comma":
+    {
+        "Б": "Shift",
+        "б": "Simple"
+    },
+    "d":
+    {
+        "В": "Shift",
+        "в": "Simple"
+    },
+    "e":
+    {
+        "У": "Shift",
+        "у": "Simple"
+    },
+    "equal":
+    {
+        "+": "Shift",
+        "=": "Simple"
+    },
+    "f":
+    {
+        "А": "Shift",
+        "а": "Simple"
+    },
+    "g":
+    {
+        "П": "Shift",
+        "п": "Simple"
+    },
+    "h":
+    {
+        "Р": "Shift",
+        "р": "Simple"
+    },
+    "i":
+    {
+        "Ш": "Shift",
+        "ш": "Simple"
+    },
+    "j":
+    {
+        "О": "Shift",
+        "о": "Simple"
+    },
+    "k":
+    {
+        "Л": "Shift",
+        "л": "Simple"
+    },
+    "l":
+    {
+        "Д": "Shift",
+        "д": "Simple"
+    },
+    "less":
+    {
+        "/": "Simple",
+        "|": "Shift"
+    },
+    "m":
+    {
+        "Ь": "Shift",
+        "ь": "Simple"
+    },
+    "minus":
+    {
+        "-": "Simple",
+        "_": "Shift"
+    },
+    "n":
+    {
+        "Т": "Shift",
+        "т": "Simple"
+    },
+    "o":
+    {
+        "Щ": "Shift",
+        "щ": "Simple"
+    },
+    "p":
+    {
+        "З": "Shift",
+        "з": "Simple"
+    },
+    "period":
+    {
+        "Ю": "Shift",
+        "ю": "Simple"
+    },
+    "q":
+    {
+        "Й": "Shift",
+        "й": "Simple"
+    },
+    "quoteleft":
+    {
+        "Ё": "Shift",
+        "ё": "Simple"
+    },
+    "r":
+    {
+        "К": "Shift",
+        "к": "Simple"
+    },
+    "s":
+    {
+        "Ы": "Shift",
+        "ы": "Simple"
+    },
+    "semicolon":
+    {
+        "Ж": "Shift",
+        "ж": "Simple"
+    },
+    "slash":
+    {
+        ",": "Shift",
+        ".": "Simple"
+    },
+    "space":
+    {
+        " ": "Simple"
+    },
+    "t":
+    {
+        "Е": "Shift",
+        "е": "Simple"
+    },
+    "u":
+    {
+        "Г": "Shift",
+        "г": "Simple"
+    },
+    "v":
+    {
+        "М": "Shift",
+        "м": "Simple"
+    },
+    "w":
+    {
+        "Ц": "Shift",
+        "ц": "Simple"
+    },
+    "x":
+    {
+        "Ч": "Shift",
+        "ч": "Simple"
+    },
+    "y":
+    {
+        "Н": "Shift",
+        "н": "Simple"
+    },
+    "z":
+    {
+        "Я": "Shift",
+        "я": "Simple"
+    }
+}
+}
